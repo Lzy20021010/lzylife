@@ -1,0 +1,31 @@
+.am-topbar .am-text-ir {
+    display: block;
+    margin-right: 10px;
+    height: 50px;
+    width: 125px;
+    background: url(../../images/logo.png) no-repeat left center;
+    -webkit-background-size: 125px 24px;
+    background-size: 125px 24px;
+}
+.blog-border{
+    border:1px solid #C0C0C0;
+    padding:20px; 
+}
+.blog-background{
+    background:#FFF; color:#000;
+}
+.footer-background{
+    background:#000; color:#FFF;
+}
+.blog-center{
+    text-align:center;
+}
+html,body{height: 100%;width: 100%;margin:0;padding:0;}
+body{
+    background:url(../../images/idev.png)repeat;
+    width:100%;
+    height:100%;
+    background-size:100% 100%;
+    position:absolute;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../images/idev.png',sizingMethod='scale');
+}
